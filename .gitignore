@@ -1,0 +1,14 @@
+.bash*
+.cache
+.config
+.node-gyp
+.npm
+.pm2
+.profile
+.sudo_as_admin_successful
+.viminfo
+.yarn
+.yarnrc
+*-*-*-*-*-*
+deploy-log*
+inactive-site
